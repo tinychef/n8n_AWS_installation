@@ -1,19 +1,6 @@
 # AWS Setup for Docker and Nginx & Certificate with Certbot with n8n
 
-<style>
-body {
-    background-color: #121212;
-    color: #FFFFFF;
-}
-pre {
-    background-color: #1E1E1E;
-    color: #D4D4D4;
-    padding: 10px;
-    border-radius: 5px;
-}
-</style>
 
----
 
 ### Step 1: Connect to AWS EC2 Instance via SSH
 ```bash
