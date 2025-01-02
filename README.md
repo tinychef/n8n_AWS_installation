@@ -1,8 +1,4 @@
-# AWS Setup for Docker and Nginx with n8n
-
-![Datapathfinder Logo](https://via.placeholder.com/150?text=Datapathfinder)
-
----
+# AWS Setup for Docker and Nginx & Certificate with Certbot with n8n
 
 <style>
 body {
