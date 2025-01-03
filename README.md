@@ -4,7 +4,7 @@
 
 ### Step 1: Connect to AWS EC2 Instance via SSH
 ```bash
-ssh -i omniapem.pem ec2-user@publicip
+ssh -i yourkey.pem ec2-user@publicip
 ```
 
 ### Step 2: Update the instance and install Docker
@@ -31,7 +31,7 @@ exit
 
 ### Step 6: Connect to AWS EC2 Instance via SSH
 ```bash
-ssh -i omniapem.pem ec2-user@publicip
+ssh -i yourkey.pem ec2-user@publicip
 ```
 
 ### Step 7: Install Docker Compose
